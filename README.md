@@ -9,7 +9,7 @@ Este es un paquete de pruebas en NPM.
 ## Ejemplo
 
 ```
-    import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'bp-produc=card-fts';
+    import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'bp-produc-card-fts';
 
 ```
 
